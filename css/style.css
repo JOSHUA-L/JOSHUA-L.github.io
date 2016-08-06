@@ -1,0 +1,5 @@
+.border {
+	border-style: double;
+	border-width: 3px;
+	border-radius: 12pt;
+}
